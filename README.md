@@ -1,8 +1,6 @@
-# 👨‍💻 Caldas
+# 👨‍💻 André Caldas
 
 **`Reverse Engineering | Cybersecurity | Low-Level `**
-
-Sou estudante universitário na área de **Sistemas para Internet**, atuo profissionalmente com **suporte técnico** e direciono meus estudos para **engenharia reversa, análise de malware, segurança ofensiva e funcionamento interno de sistemas**.
 
 Tenho forte interesse em **baixo nível**, explorando como softwares realmente funcionam “por baixo dos panos”: desde o **loader**, **runtime**, **memória**, **assembly**, até **mecanismos de proteção, anti-debug e evasão**. 
 
