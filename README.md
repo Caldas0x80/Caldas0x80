@@ -39,7 +39,7 @@ Este GitHub é utilizado como **laboratório de estudos**, **documentação téc
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg"/>
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/assemblyscript.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -59,24 +59,6 @@ Este GitHub é utilizado como **laboratório de estudos**, **documentação téc
 - 🧠 Explicações técnicas voltadas para **engenharia reversa**
 - 🧪 Códigos criados especificamente para **treino e laboratório**
 - 📓 Artigos técnicos em formato de README
-
----
-
-## 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&langs_count=8" 
-  />
-</p>
-
-<br/><br/>
 
 ---
 
