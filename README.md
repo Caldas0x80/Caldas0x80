@@ -2,9 +2,7 @@
 
 **`Reverse Engineering | Cybersecurity | Low-Level `**
 
-Tenho forte interesse em **baixo nível**, explorando como softwares realmente funcionam “por baixo dos panos”: desde o **loader**, **runtime**, **memória**, **assembly**, até **mecanismos de proteção, anti-debug e evasão**. 
-
-Este GitHub é utilizado como **laboratório de estudos**, **documentação técnica** e **portfólio de evolução real**, sem atalhos.
+Aqui você encontrará RE **baixo nível**, explorando como softwares realmente funcionam “por baixo dos panos”: desde o **loader**, **runtime**, **memória**, **assembly**, até **mecanismos de proteção, anti-debug e evasão**. 
 
 ---
 
